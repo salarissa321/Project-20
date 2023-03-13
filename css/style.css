@@ -1,6 +1,9 @@
 
 body{
-
+    font-family: 'Raleway', sans-serif;
+    font-size: 14px;
+    line-height: 26px;
+    font-weight: 300;
 }
 
 
@@ -27,4 +30,116 @@ color: #7545BD;
 .mylink{
     margin: 20px;
     color: black;
+}
+
+.myschrift{
+    font-size: 48px;
+    text-transform: uppercase;
+    font-weight: 600;
+    
+    margin-bottom: 25px;
+}
+
+.mypara{
+    margin-bottom: 50px;
+}
+
+.mybtn{
+    padding: 20px 40px;
+background: #8c48bc;
+font-size: 14px;
+font-weight: 600;
+color: #fff;
+text-transform: uppercase;
+border-radius: 5px;
+cursor: pointer;
+text-decoration: none;
+margin-left: 550px;
+}
+
+.myimg{
+    margin-left: 230px;
+    margin-top: 70px;
+}
+
+.myschreiben{
+    font-size: 30px;
+    font-weight: 600;
+color: #944dbe;
+text-transform: uppercase;
+}
+.mycard{
+text-align: center;
+background: #fff;
+padding: 20px 40px 20px 40px;
+margin-bottom: 50px;
+border: 1px solid #eaeaea;
+border-radius: 10px;
+transition: .5s;
+margin-left: 100px;
+
+}
+
+.myicon{
+ color: #7545BD;   
+}
+
+
+.card-subtitle{
+color: black;
+
+}
+
+.card-text{
+
+}
+
+.mycard2{
+    text-align: center;
+    background: #fff;
+    padding: 20px 40px 20px 40px;
+    margin-bottom: 50px;
+    border: 1px solid #eaeaea;
+    border-radius: 10px;
+    transition: .5s; 
+    margin-left: 70px;
+}
+
+.mycard3{
+    text-align: center;
+    background: #fff;
+    padding: 20px 40px 20px 40px;
+    margin-bottom: 50px;
+    border: 1px solid #eaeaea;
+    border-radius: 10px;
+    transition: .5s;   
+}
+.mycard4{
+    text-align: center;
+    background: #fff;
+    padding: 20px 40px 20px 40px;
+    margin-bottom: 50px;
+    border: 1px solid #eaeaea;
+    border-radius: 10px;
+    transition: .5s; 
+}
+
+.mycard5{
+    text-align: center;
+    background: #fff;
+    padding: 20px 40px 20px 40px;
+    margin-bottom: 50px;
+    border: 1px solid #eaeaea;
+    border-radius: 10px;
+    transition: .5s; 
+}
+
+.mycard6{
+    text-align: center;
+    background: #fff;
+    padding: 20px 40px 20px 40px;
+    margin-bottom: 50px;
+    border: 1px solid #eaeaea;
+    border-radius: 10px;
+    transition: .5s; 
 }
