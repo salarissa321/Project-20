@@ -80,6 +80,10 @@ margin-left: 100px;
 
 }
 
+.card-body4{
+    
+}
+
 .myicon{
  color: #7545BD;   
 }
@@ -112,7 +116,8 @@ color: black;
     margin-bottom: 50px;
     border: 1px solid #eaeaea;
     border-radius: 10px;
-    transition: .5s;   
+    transition: .5s; 
+    margin-left: 20px;  
 }
 .mycard4{
     text-align: center;
@@ -122,6 +127,7 @@ color: black;
     border: 1px solid #eaeaea;
     border-radius: 10px;
     transition: .5s; 
+    margin-left: 100px; 
 }
 
 .mycard5{
@@ -132,6 +138,7 @@ color: black;
     border: 1px solid #eaeaea;
     border-radius: 10px;
     transition: .5s; 
+    margin-left: 70px; 
 }
 
 .mycard6{
@@ -142,4 +149,5 @@ color: black;
     border: 1px solid #eaeaea;
     border-radius: 10px;
     transition: .5s; 
+    margin-left: 20px;
 }
